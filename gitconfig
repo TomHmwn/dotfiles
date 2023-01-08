@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thomashmwn@gmail.com
+	name = Thomas Himawan
